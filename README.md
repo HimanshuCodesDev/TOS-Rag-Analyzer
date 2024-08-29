@@ -20,7 +20,7 @@ TOS-Rag-Analyzer is a powerful tool that uses Retrieval-Augmented Generation (RA
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/TOS-Rag-Analyzer.git
+   git clone https://github.com/HimanshuCodesDev/TOS-Rag-Analyzer.git
    cd TOS-Rag-Analyzer
    ```
 
