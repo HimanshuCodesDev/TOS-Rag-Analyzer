@@ -1,6 +1,7 @@
 # TOS-Rag-Analyzer
 
 TOS-Rag-Analyzer is a powerful tool that uses Retrieval-Augmented Generation (RAG) to analyze Terms of Service (TOS) documents. It leverages advanced language models and vector embeddings to provide detailed insights into the fairness and legal compliance of TOS agreements.
+![image](https://github.com/user-attachments/assets/77a17cab-1023-419e-8c19-294500203c20)
 
 ## Features
 
@@ -11,6 +12,9 @@ TOS-Rag-Analyzer is a powerful tool that uses Retrieval-Augmented Generation (RA
 - Legal compliance assessment
 - Interactive visualizations of fairness distribution
 - Debug information for transparency and troubleshooting
+
+## Architecture of the APP
+![diagram-export-8-30-2024-2_37_27-AM](https://github.com/user-attachments/assets/f064aa69-d785-41a2-bff1-e00f3248e54d)
 
 ## Installation
 
